@@ -17,3 +17,6 @@ This is a Java-based platformer game inspired by the classic elements and mechan
   - **K:** Save the current game state while the game is paused.
   - **Space:** Player shoots to monsters.
   - **123:** Player changes the image as water, fire or magenta.
+
+## Youtube video link
+- https://www.youtube.com/watch?v=PM2irjucK_w
